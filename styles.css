@@ -34,7 +34,7 @@ body{
 }
 
 .caja-t2{
-    width: 80%;
+    width: 85%;
     max-width: 500px;
     height: auto;
     background-color:rgba(218, 215, 215, 0.5) ;
@@ -134,9 +134,10 @@ h21{
     text-align: center;
 }
 
-.hyl{
+.h{
     float:left;
-    margin-left: 10%;
+    position: absolute;
+    left: 15%;
     border-style: groove;
     border-color: #d9b5ad66;
     border-width: 0.06cm;
@@ -146,9 +147,10 @@ h21{
     padding-right: 3%;
 }
 
-.yys{
+.l{
     float:left;
-    margin-left: 17%;
+    position: absolute;
+    right: 15%;
     border-style: groove;
     border-color: #d9b5ad66;
     border-width: 0.06cm;
