@@ -135,7 +135,19 @@ h21{
 }
 
 .hyl{
-    float: left;
+    float:left;
+    margin-left: 10%;
+    border-style: groove;
+    border-color: #d9b5ad66;
+    border-width: 0.06cm;
+    background-color: rgb(196, 147, 160);
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.yys{
+    float:left;
     margin-left: 17%;
     border-style: groove;
     border-color: #d9b5ad66;
