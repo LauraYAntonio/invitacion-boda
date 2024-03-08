@@ -18,7 +18,8 @@ body{
 }
 
 .caja-video{
-    padding-top:0;
+    padding-top:10%;
+    padding-bottom: 10%;
 }
 .caja-t1{
     width: 100%;
